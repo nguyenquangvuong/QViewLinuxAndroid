@@ -1,0 +1,12 @@
+======================Quick Guide Build Server Live555 for Linux Android=================
+//Nguyen Quang Vuong
+//19/05/2023
+
+/Live555ForLinuxAndroid/libs/armeabi-v7a
+						    /liblive555BasicUsageEnvironment.so
+                                        /liblive555groupsock.so
+						    /liblive555Media.so
+Push 3 file lib .so to /system/lib/
+
+Push App executable into /system/bin/
+=========================================================================================
